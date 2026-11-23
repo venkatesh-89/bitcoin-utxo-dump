@@ -1,0 +1,1 @@
+- 2026-11-23: dependency notes refreshed for the latest toolchain
